@@ -8,12 +8,10 @@ The dashboard helps identify state-wise GST collection trends, exposing cases wh
 📊 Data / Problem Handled
 
 The project uses GST revenue data from 2017 to 2025, sourced from the National Data & Analytics Platform (NDAP).
-
-The data includes:
+The data includes-
 Monthly and yearly GST collections
 State-wise revenue details
 Components of tax: CGST, SGST, IGST, and Cess
-
 The main analytical challenge was to track trends and deviations in revenue growth, especially during the GST 2.0 period, to understand whether reduced slabs led to increased consumption or corporate margin inflation.
 
 
